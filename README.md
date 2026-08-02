@@ -1,5 +1,5 @@
 # ¡Hola! Mi nombre es Pierina Luque 🧪💻
-### Licenciada en Química | Desarrollador de Soluciones Científicas aplicando Python al análisis de datos 📊
+### Licenciada en Química | Desarrolladora de Soluciones Científicas aplicando Python al análisis de datos 📊
 
 Bienvenido(a) a mi portafolio profesional. Aquí combino la programación en Python para ahorrar tiempo al laboratorio: automatizo el análisis de datos químicos, grafico curvas en segundos y modelo sistemas científicos para que podamos enfocarnos en la ciencia y no en el trabajo repetitivo. 😊
 
