@@ -10,7 +10,7 @@ Bienvenido(a) a mi portafolio profesional. Aquí combino la programación en Pyt
 ### 1. Automatizador de Curvas de Calibración Fotométricas
 *   **Descripción**: Script en Python que lee datos analíticos, calcula la regresión lineal por mínimos cuadrados y genera reportes gráficos de alta calidad con límites LOD/LOQ bajo criterios IUPAC.
 *   **Tecnologías**: Python, Pandas, Scikit-learn, Matplotlib.
-*   **Enlace al código**: [Ver repositorio del proyecto](AQUÍ_PONDRÁS_EL_LINK_MÁS_ADELANTE)
+*   **Enlace al código**: (https://github.com/pieri-luque/curva-calibracion-python/blob/main/curva_calibracion.py)
 
 ### 2. [Proyecto 2: Ej. Buscador de Propiedades Moleculares 3D]
 *   **Descripción**: Breve descripción de lo que hace tu segundo proyecto.
