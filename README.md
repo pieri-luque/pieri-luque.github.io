@@ -12,10 +12,10 @@ Bienvenido(a) a mi portafolio profesional. Aquí combino la programación en Pyt
 *   **Tecnologías**: Python, Pandas, Scikit-learn, Matplotlib.
 *   **Enlace al código**: (https://github.com/pieri-luque/curva-calibracion-python/blob/main/curva_calibracion.py)
 
-### 2. [Proyecto 2: Ej. Buscador de Propiedades Moleculares 3D]
-*   **Descripción**: Breve descripción de lo que hace tu segundo proyecto.
-*   **Tecnologías**: Python, RDKit, Requests, Streamlit.
-*   **Enlace al código**: [Ver repositorio del proyecto](AQUÍ_PONDRÁS_EL_LINK)
+### 2. Buscador y Analizador de Propiedades Moleculares (PROTOTIPO)
+*   **Descripción**: Aplicación web interactiva que se conecta a la API de PubChem para extraer propiedades de compuestos.
+*   **Tecnologías**: Python, Streamlit, RDKit, Requests.
+*   **Enlace al código**: (https://github.com/pieri-luque/buscador-molecular-python/tree/main)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
